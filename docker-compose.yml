@@ -6,4 +6,4 @@ services:
     working_dir: '/'
     tty: true
     ports:
-      - "8000:5000"
+      - "5000:5000"
